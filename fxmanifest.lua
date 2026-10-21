@@ -5,7 +5,7 @@ lua54 'yes'
 name 'surgenode_images'
 author 'SurgeNode'
 description 'Syncs ox_inventory item images to the SurgeNode image CDN (images.surgenode.net)'
-version '0.3.1'
+version '0.3.2'
 
 server_scripts {
   'client_images.lua',
